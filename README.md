@@ -1,45 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Motalebi</h1>
-<h3 align="center">A Web Developer, Front-End Developer, Full-Stack Developer</h3>
-<p>
-I have 13 years of expertise creating and building web-based apps, and I am a knowledgeable and well educated professional.
-</p>
-<p>
-Web-based office automation design, admin panel design, responsive web page design, Back-End and Front-End programming, database design and implementation, query writing, and creating sophisticated reports from the database are all aspects of my professional experience.
-I am in a great position to assist your company in producing high-quality software products thanks to my professional background, attention to detail, performance, and capacity for solving difficult challenges. 
-</p>
-<p>Below are some of the skills and highlights of my qualifications and experience:</p>
 
--	Programming experience with PHP and Laravel framework.
--	Professional experience working with databases.
--	Experience working with tools such as JIRA, CircleCI and Docker.
--	Experience in cPanel, PhpMyAdmin, NaviCat. 
--	Familiarity with JavaScript debugging tools such as ESLint, JSHint.
--	Complete knowledge of working with ReactJS, Alpine.js, Vue.js.
--	High ability to analyze and implement software.
--	Full familiarity with and powerful React libraries such as Material-UI, Framework7, Redux, Router 6.x, Redux-Toolkit.
--	Knowledge of Git, GitHub and Bitbucket.
--	Familiarity with Jest and Enzyme tools for (TDD) test writing for React.
--	Team leadership experience.
--	Sufficient knowledge of Rest API.
--	Relative familiarity with GraphQL.
--	13 years’ experience in WordPress, Joomla
--	10 years’ experience in Search Engine Optimization
-<p>
-I can add a lot of value to your company thanks to my in-depth understanding of software development, design, and implementation, as well as my aptitude for problem-solving, coming up with creative solutions, and presenting those ideas to managers. I am eager to discuss this situation and my circumstances with you.
-</p>
-
-
-- 🌱 I’m currently learning Python **Django**
-
-- 👨‍💻 All of my projects are available at [My GitHub](My GitHub)
-
-- 💬 Ask me about **React, Next.js, Material-UI, Framework7,JavaScript, Jquery, PHP, Laravel, Databases**
-
-- 📫 How to reach me **mohamad.motalebi@gmail.com**
-
-- 📄 Know about my experiences [https://mohammadmotalebi.github.io/mohammadmotalebi/](https://mohammadmotalebi.github.io/mohammadmotalebi/)
-
-- ⚡ Fun fact **Video Games, Gym, Listening to music**
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/22193922/197999370-c12839af-9055-40a4-ad4d-75eb914339ef.png" alt="sign" width="300" />
